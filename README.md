@@ -1,4 +1,4 @@
 # Crafting Interpreters
 
-A Lox implementation using Python (Pylox).
+An interpreter using Lox Language, built on top of Python (Pylox).
 Based on : https://craftinginterpreters.com/
